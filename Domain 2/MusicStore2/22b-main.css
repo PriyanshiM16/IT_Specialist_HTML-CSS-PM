@@ -10,3 +10,9 @@ p {
 font-weight: bold;
 background-color: aqua;
 }
+a {
+    text-decoration: none;
+}
+a:hover {
+    font-weight: bold;
+}
